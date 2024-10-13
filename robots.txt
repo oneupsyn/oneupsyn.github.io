@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oneupsyn.github.io/sitemap.html.gz
+Sitemap: https://oneupsyn.github.io/app/sitemap.html.gz
+Sitemap: https://oneupsyn.github.io/assets/sitemap.html.gz
+Sitemap: https://oneupsyn.github.io/css/sitemap.html.gz
+Sitemap: https://oneupsyn.github.io/includes/sitemap.html.gz
+Sitemap: https://oneupsyn.github.io/item/sitemap.html.gz
+Sitemap: https://oneupsyn.github.io/src/sitemap.html.gz
